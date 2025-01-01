@@ -1,0 +1,11 @@
+This Tool is a Very Powerful  OSINT Tool For gathering information of email using Termux
+
+apt update && apt upgrade -y
+apt install git -y
+apt install golang
+git clone https://github.com/alpkeskin/mosint.git
+cd mosint
+     👇
+gmain.go
+          👇
+ <victimemail>
